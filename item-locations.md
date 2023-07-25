@@ -1,4 +1,4 @@
-This is a guide for the items in [Ancestral X](https://drive.google.com/drive/folders/1DxgI06n36emQzeh4X23ReQt8CwtnWQG0), a romhack by Axyn. This guide is incomplete, and is a work in progress. If you'd like to contribute to it, join the [Ancestral X Discord](https://discord.com/invite/rRh4cTbEaz) and ask for Something_Smart.
+This is a guide for the items in [Ancestral X](https://drive.google.com/drive/folders/1DxgI06n36emQzeh4X23ReQt8CwtnWQG0), a romhack by Axyn. While this guide does cover the whole game, it's always possible that I missed something. If you'd like to contribute to it, join the [Ancestral X Discord](https://discord.com/invite/rRh4cTbEaz) and ask for Something_Smart.
 
 ## Violatory (before Viola)
 | Item | Location |
