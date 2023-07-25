@@ -12,22 +12,23 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 | Quick Ball | Santalune Forest
 | Light Ball ∞ | Pikachu (Covet/Magician)
 | Safety Goggles ∞ | Trapinch (Covet/Magician)
-| Berry Juice | Fight Lise
+| Berry Juice | Santalune Forest, fight Lise
 | Old Rod | Route 3
 | Quick Claw ∞ | Meowth (Covet/Magician)
-| Sitrus Berry | Fight Bridget and Brighton
-| X Attack x3, X Defend x3 | Given in school (sell these for $$)
+| Sitrus Berry | Route 3, fight Bridget and Brighton
+| X Attack x3, X Defense x3 | Given in school (sell these for $$)
 | TMs Hail, Sunny Day, Rain Dance, Smack Down, Sandstorm, Thunder Punch, Fire Punch, Ice Punch | Santalune mart
+| Wise Glasses | Held by the Numel trade
 ### After route 22 trainers
 | Item | Location |
 |-------------|-------------|
 | Binding Band ∞ | Ekans (Covet/Magician)
 | Rawst Berry, Chesto Berry ∞ | Route 22 Natural Object (Requires Air Cutter/Blizzard/Twister)
 | Sitrus Berry ∞ | Route 22 Natural Object (Requires Petal Blizzard/Razor Leaf)
-| Oran Berry x990 | Fight Loic
-| Chesto Berry x990 | Fight above plus Rabbie
-| Ability Capsule | Fight above plus Mackenzie
-| Nugget | Fight above plus Elsa
+| Oran Berry x990 | Route 22, fight Loic
+| Chesto Berry x990 | Route 22, fight above plus Rabbie
+| Ability Capsule | Route 22, fight above plus Mackenzie
+| Nugget | Route 22, fight above plus Elsa
 ## After Viola
 | Item | Location |
 |-------------|-------------|
@@ -35,9 +36,9 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 | Berry Juice ∞ | Available in marts
 | Aspear Berry x990 | On Route 4
 | Persim Berry x990 | On Route 4
-| Cheri Berry x990 | Fight Wheaton (SW)
-| Pecha Berry x990 | Fight Grover (NW)
-| Rawst Berry x990 | Fight Fabian (NE)
+| Cheri Berry x990 | Route 4, fight Wheaton (SW)
+| Pecha Berry x990 | Route 4, fight Grover (NW)
+| Rawst Berry x990 | Route 4, fight Fabian (NE)
 | Ultra Ball x3 | Hidden around Route 4
 | Poison Barb | Route 4
 | Poison Barb ∞ | Budew (Covet/Magician)
@@ -47,6 +48,7 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 ### After Sycamore
 | Item | Location |
 |-------------|-------------|
+| TM False Swipe | Given at Sycamore's lab
 | Eviolite | Lumiose Stone Emporium
 | Expert Belt, Light Clay, Shell Bell ∞ | Lumiose Stone Emporium
 | Mystic Water, Charcoal, Icy Rock, Smooth Rock ∞ | Lumiose Herboriste
@@ -58,7 +60,7 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 | Sharp Beak ∞ | Doduo (Covet/Magician)
 | Shed Shell ∞ | Scraggy (Covet/Magician)
 | Mental Herb ∞ | Pancham (Covet/Magician)
-| TM Hone Claws | Fight Florin
+| TM Hone Claws | Route 5, fight Florin
 | TM Thief | Gift in Camphrier-- *all previous stealable items obtainable now*
 | Sitrus Berry x990 | Berry Fields
 ### After Route 6
@@ -105,7 +107,7 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 | TM Rest | Given in Cyllage hotel
 | TM Sleep Talk | Given in Cyllage hotel
 | Mago Berry ∞ | Tree on Route 10
-| Thunder Stone | Fight Sayid
+| Thunder Stone | Route 10, fight Sayid
 | Wide Lens ∞ | Yanma (Thief) (after Route 10 encounter)
 | Toxic Orb ∞ | Stunky (Thief) (after Route 10 encounter)
 | King's Rock ∞ | Hawlucha (Thief) (after Route 10 encounter)
@@ -137,6 +139,7 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 | Item | Location |
 |-------------|-------------|
 | TM Power-Up Punch | From Korrina
+| PP Max ∞ | Pickup
 | TM Low Sweep | Given in Tower of Mastery
 | HM Surf | From rival after Tower of Mastery
 | Charti Berry | Given in a house west of Cyllage (Surf)
@@ -174,12 +177,69 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 | Item | Location |
 |-------------|-------------|
 | TM Thunderbolt | From Clemont
+| Life Orb ∞ | Pickup
 | TM Toxic | Route 14
-| TM Will-O-Wisp | Fight Imogen
+| TM Will-O-Wisp | Route 14, fight Imogen
 | TM Play Rough | Given in Laverre
 | TMs Aura Sphere, Sky Drop, Icicle Crash, Dream Eater, Flash Cannon, Wild Charge | Laverre mart
-
-This is as far as the guide goes right now. I don't want to add sections of the game that I haven't played through yet, but I'll keep adding to it as I go along. As I mentioned, you're welcome to join the discord and let me know if you have any feedback/want to help out!
+## After Valerie
+| Item | Location |
+|-------------|-------------|
+| TM Dazzling Gleam | From Valerie
+| Assault Vest ∞ | Pickup
+| Master Ball | Given in Poke Ball Factory
+| Super Rod | Route 16
+| TM Dark Pulse | Route 16, fight Alice; OR one of Jet/Ollie plus Lee, Bjorn, and Achlys & Eos
+| PP Up | Route 15
+| Macho Brace | Route 15
+| Dread Plate | Lost Hotel
+| TM Snarl | Lost Hotel, fight Carrie, Sid, and Zoya & Asa
+| Focus Sash | Given in Dendemille (you can get them daily, but only 1 is intended)
+| TM Facade | Given in Dendemille
+| Grip Claw ∞ | Sneasel (Thief)
+| TM Frost Breath | Frost Cavern, fight Gabrielle
+| PP Up | Hidden in Abomasnow room
+| TMs Sucker Punch, Flamethrower, Zen Headbutt, Substitute | Given in Anistar
+| TM Hidden Power | Given in Anistar
+| TMs Blizzard, Hyper Beam, Thunder, Fire Blast, Focus Blast | Anistar mart
+## After Olympia
+| Item | Location |
+|-------------|-------------|
+| TM Calm Mind | From Olympia
+| TM Taunt | Given in Lysandre Labs
+| Black Glasses | Lysandre Labs
+### After Flare HQ
+| Item | Location |
+|-------------|-------------|
+| PP Up | Route 18
+| Normal Gem ∞ | Terminus Cave, fight Yanis
+| TM Brick Break | Terminus Cave, fight Justine or Orestes (both are otherwise optional, despite what the docs say)
+| TM Shadow Ball | Terminus Cave, fight above plus Narek, Aaron, Dmitri, Andrea, Hailey, and Ricardo
+| TM U-turn | Given in Couriway
+### After Sycamore
+| Item | Location |
+|-------------|-------------|
+| TM Scald | Given in Couriway
+| TM Rock Slide | Couriway
+| PP Up | Route 19, fight Ivy & Orrick
+| TM Sludge Bomb | Route 19, fight Ivy & Orrick and Shinobu
+| HM Waterfall | From Shauna after the bridge nightmare
+| Leftovers, Life Orb, Focus Sash, Assault Vest, Choice Band, Choice Specs, Choice Scarf ∞ | Snowbelle mart
+| TM Bulk Up | Given in Snowbelle
+| TM Energy Ball | Route 20, fight Desdemona
+| Pixie Plate | Pokemon Village
+## After Wulfric
+| Item | Location |
+|-------------|-------------|
+| TM Ice Beam | From Wulfric
+| TM Stone Edge | Frost Cavern (Waterfall)
+| TM Psychic | Pokemon Village (Waterfall)
+| PP Up | Route 21, fight Trisha
+| TM Solar Beam | Route 21, fight Trisha
+| TM Earthquake | Route 22, fight Hilde and Adelbert
+| TM Psyshock | Victory Road
+| PP Up | Victory Road
+| TM Dragon Claw | Victory Road
 
 ### Notes:
 * ∞ means the item is infinitely obtainable. If no number is listed, you can only get 1.
