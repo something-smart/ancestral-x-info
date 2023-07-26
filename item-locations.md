@@ -154,7 +154,7 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 | Basically every berry | Coumarine
 | Silk Scarf | Given in Coumarine
 | Good Rod | Given in Coumarine
-| TMs Acrobatics, Air Slash, Trick Room, Bug Buzz | Given in Coumarine
+| TMs Acrobatics, Air Slash, Trick Room, Bug Buzz | Given in Coumarine (62, 63, 92, 100)
 | HM Fly | From Sycamore in Coumarine
 | All evolution stones | Outdoor stand in Coumarine
 | PP Up | Hidden on Route 13
@@ -173,6 +173,7 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 | TM Dragon Tail | Given in Lumiose
 | TMs Dragon Pulse, Giga Impact, Volt Switch | Lumiose north mart
 | Air Balloon, Red Card, Eject Button, Weakness Policy, Absorb Bulb, Luminous Moss, Cell Battery, Mental Herb, Power Herb, White Herb ∞ | Lumiose Poke Ball Boutique
+| PP Max, Master Ball ∞ | Lumiose Loto-ID Center
 ## After Clemont
 | Item | Location |
 |-------------|-------------|
@@ -187,10 +188,8 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 |-------------|-------------|
 | TM Dazzling Gleam | From Valerie
 | Assault Vest ∞ | Pickup
-| Master Ball | Given in Poke Ball Factory
 | Super Rod | Route 16
 | TM Dark Pulse | Route 16, fight Alice; OR one of Jet/Ollie plus Lee, Bjorn, and Achlys & Eos
-| PP Up | Route 15
 | Macho Brace | Route 15
 | Dread Plate | Lost Hotel
 | TM Snarl | Lost Hotel, fight Carrie, Sid, and Zoya & Asa
@@ -198,8 +197,7 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 | TM Facade | Given in Dendemille
 | Grip Claw ∞ | Sneasel (Thief)
 | TM Frost Breath | Frost Cavern, fight Gabrielle
-| PP Up | Hidden in Abomasnow room
-| TMs Sucker Punch, Flamethrower, Zen Headbutt, Substitute | Given in Anistar
+| TMs Sucker Punch, Flamethrower, Zen Headbutt, Substitute | Given in Anistar (32, 35, 77, 90)
 | TM Hidden Power | Given in Anistar
 | TMs Blizzard, Hyper Beam, Thunder, Fire Blast, Focus Blast | Anistar mart
 ## After Olympia
@@ -211,7 +209,6 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 ### After Flare HQ
 | Item | Location |
 |-------------|-------------|
-| PP Up | Route 18
 | Normal Gem ∞ | Terminus Cave, fight Yanis
 | TM Brick Break | Terminus Cave, fight Justine or Orestes (both are otherwise optional, despite what the docs say)
 | TM Shadow Ball | Terminus Cave, fight above plus Narek, Aaron, Dmitri, Andrea, Hailey, and Ricardo
@@ -221,7 +218,6 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 |-------------|-------------|
 | TM Scald | Given in Couriway
 | TM Rock Slide | Couriway
-| PP Up | Route 19, fight Ivy & Orrick
 | TM Sludge Bomb | Route 19, fight Ivy & Orrick and Shinobu
 | HM Waterfall | From Shauna after the bridge nightmare
 | Leftovers, Life Orb, Focus Sash, Assault Vest, Choice Band, Choice Specs, Choice Scarf ∞ | Snowbelle mart
@@ -234,11 +230,9 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 | TM Ice Beam | From Wulfric
 | TM Stone Edge | Frost Cavern (Waterfall)
 | TM Psychic | Pokemon Village (Waterfall)
-| PP Up | Route 21, fight Trisha
 | TM Solar Beam | Route 21, fight Trisha
 | TM Earthquake | Route 22, fight Hilde and Adelbert
 | TM Psyshock | Victory Road
-| PP Up | Victory Road
 | TM Dragon Claw | Victory Road
 
 ### Notes:
