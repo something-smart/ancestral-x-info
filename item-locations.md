@@ -139,7 +139,7 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 | Item | Location |
 |-------------|-------------|
 | TM Power-Up Punch | From Korrina
-| PP Max ∞ | Pickup
+| PP Max ∞ | Pickup*
 | TM Low Sweep | Given in Tower of Mastery
 | HM Surf | From rival after Tower of Mastery
 | Charti Berry | Given in a house west of Cyllage (Surf)
@@ -178,7 +178,7 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 | Item | Location |
 |-------------|-------------|
 | TM Thunderbolt | From Clemont
-| Life Orb ∞ | Pickup
+| Life Orb ∞ | Pickup*
 | TM Toxic | Route 14
 | TM Will-O-Wisp | Route 14, fight Imogen
 | TM Play Rough | Given in Laverre
@@ -187,12 +187,13 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 | Item | Location |
 |-------------|-------------|
 | TM Dazzling Gleam | From Valerie
-| Assault Vest ∞ | Pickup
+| Assault Vest ∞ | Pickup*
 | Super Rod | Route 16
 | TM Dark Pulse | Route 16, fight Alice; OR one of Jet/Ollie plus Lee, Bjorn, and Achlys & Eos
 | Macho Brace | Route 15
 | Dread Plate | Lost Hotel
 | TM Snarl | Lost Hotel, fight Carrie, Sid, and Zoya & Asa
+| Lucky Egg ∞ | Chansey (Thief)
 | Focus Sash | Given in Dendemille (you can get them daily, but only 1 is intended)
 | TM Facade | Given in Dendemille
 | Grip Claw ∞ | Sneasel (Thief)
@@ -241,3 +242,4 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 * Items are (generally) listed at the first obtainable point. Due to reasons such as delaying encounters, you may not be able to get them at that point.
 * HMs are indicated when backtracking is required. If you already have the relevant HM when you reach the location, it's not listed.
 * You can begin to farm money when you reach Santalune (from the cafe). Most people will give themselves infinite money here; technically, you do not have true infinite money until you reach the Berry Fields, due to the ability to grow berries, compost them into mulch, and sell the mulch.
+* *Pickup items are only obtainable if you have obtained a pokemon with Pickup and chosen not to evolve it. The only pokemon with Pickup are Meowth, Teddiursa, Phanpy, Zigzagoon, and Lillipup. Available items scale with level, so this guide marks them when they become available within the level cap.
