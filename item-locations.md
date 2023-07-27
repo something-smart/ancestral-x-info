@@ -148,7 +148,7 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 | TM Roost | Route 8 (Surf)
 | TM Stealth Rock | Given in Route 12 ranch house
 | Leftovers | Route 12
-| TM X-Scissor | Azure Bay, fight Isla
+| TM X-Scissor | Azure Bay, fight Isla and Ewan
 | Big Root | Lileep (Thief)
 | TMs Steel Wing, Mud Bomb, Seed Bomb | Coumarine mart
 | Basically every berry | Coumarine
