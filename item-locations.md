@@ -1,4 +1,6 @@
-This is a guide for the items in [Ancestral X](https://drive.google.com/drive/folders/1DxgI06n36emQzeh4X23ReQt8CwtnWQG0), a romhack by Axyn. While this guide does cover the whole game, it's always possible that I missed something. If you'd like to contribute to it, join the [Ancestral X Discord](https://discord.com/invite/rRh4cTbEaz) and ask for Something_Smart.
+This is a guide for the items in [Ancestral X](https://drive.google.com/drive/folders/1DxgI06n36emQzeh4X23ReQt8CwtnWQG0), a romhack by Axyn. While this guide does cover the whole game, it's always possible that I missed something, especially as things change with new updates. If you'd like to contribute to it, join the [Ancestral X Discord](https://discord.com/invite/rRh4cTbEaz) and ask for Something_Smart.
+
+This guide is currently up-to-date for release 2.0.1.
 
 ## Violatory (before Viola)
 | Item | Location |
@@ -6,9 +8,6 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 | Oran Berry | On starter
 | Rare Candy ∞ | Shop in Aquacorde (and every mart after Viola)
 | Cherish Ball ∞ | Shop in Aquacorde
-| Flame Orb ∞ | Slugma (Covet/Magician)
-| Spell Tag ∞ | Shuppet (Magician)
-| Miracle Seed ∞ | Cherubi (Covet/Magician)
 | Quick Ball | Santalune Forest
 | Light Ball ∞ | Pikachu (Covet/Magician)
 | Safety Goggles ∞ | Trapinch (Covet/Magician)
@@ -50,7 +49,7 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 |-------------|-------------|
 | TM False Swipe | Given at Sycamore's lab
 | Eviolite | Lumiose Stone Emporium
-| Expert Belt, Light Clay, Shell Bell ∞ | Lumiose Stone Emporium
+| Sticky Barb, Light Clay, Shell Bell ∞ | Lumiose Stone Emporium
 | Mystic Water, Charcoal, Icy Rock, Smooth Rock ∞ | Lumiose Herboriste
 | Muscle Band | Route 5
 ### After Tierno
@@ -79,12 +78,12 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 | Leftovers | Held by the Snorlax
 | Black Sludge ∞ | Grimer (Thief)
 | Lagging Tail ∞ | Lickitung (Thief)
+| Miracle Seed ∞ | Pumpkaboo (Thief)
 | PP Up | Route 7
 | Fire Stone, Thunder Stone, Water Stone, Leaf Stone ∞ | Route 8 Natural Object (Requires Hyper Voice/Rock Slide)
 | Dawn Stone | Route 8
 | Water Stone | Route 8
 | Leaf Stone | Route 8
-| Wise Glasses | Spoink (Thief)
 ### After reaching Ambrette
 | Item | Location |
 |-------------|-------------|
@@ -93,6 +92,7 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 | Hard Stone, Soft Sand, Heart Scale ∞ | Rock Smash in Ambrette (after encounter)
 | Scope Lens ∞ | Horsea (Thief) (after Ambrette encounter)
 | Rocky Helmet | Given in Route 9 gate
+| Spell Tag ∞ | Yamask (Thief)
 | Moon Stone ∞ | Lunatone (Thief)
 | Sun Stone ∞ | Solrock (Thief)
 | Luminous Moss ∞ | Glittering Cave Natural Object (requires Hyper Voice/Rock Slide)
@@ -108,6 +108,7 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 | TM Sleep Talk | Given in Cyllage hotel
 | Mago Berry ∞ | Tree on Route 10
 | Thunder Stone | Route 10, fight Sayid
+| Expert Belt | Route 10 (after you have fought Robert, Fumiko, and Tomoko)
 | Wide Lens ∞ | Yanma (Thief) (after Route 10 encounter)
 | Toxic Orb ∞ | Stunky (Thief) (after Route 10 encounter)
 | King's Rock ∞ | Hawlucha (Thief) (after Route 10 encounter)
@@ -119,7 +120,6 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 | TM Thunder Wave | Route 10 (Strength)
 | TM Aerial Ace | Connecting Cave (Strength)
 | TM Payback | Gift in Geosenge Pokemon Center
-| Muscle Band ∞ | Hariyama (Thief)
 | Black Belt ∞ | Sawk, Throh (Thief)
 | TM Rock Polish | Route 11
 | TM Giga Drain | From Tierno in Reflection Cave
@@ -164,6 +164,7 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 |-------------|-------------|
 | TM Grass Knot | From Ramos
 | Zap Plate | Power Plant
+| Assault Vest | Power Plant
 ### After Power Plant
 | Item | Location |
 |-------------|-------------|
@@ -179,22 +180,23 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 |-------------|-------------|
 | TM Thunderbolt | From Clemont
 | Life Orb ∞ | Pickup*
-| TM Toxic | Route 14
+| TM Toxic | Given on Route 14
 | TM Will-O-Wisp | Route 14, fight Imogen
 | TM Play Rough | Given in Laverre
-| TMs Aura Sphere, Sky Drop, Icicle Crash, Dream Eater, Flash Cannon, Wild Charge | Laverre mart
+| TMs Aura Sphere, Trop Kick, Icicle Crash, Dream Eater, Flash Cannon, Wild Charge | Laverre mart
 ## After Valerie
 | Item | Location |
 |-------------|-------------|
 | TM Dazzling Gleam | From Valerie
 | Assault Vest ∞ | Pickup*
+| Life Orb | Poke Ball Factory
 | Super Rod | Route 16
 | TM Dark Pulse | Route 16, fight Alice; OR one of Jet/Ollie plus Lee, Bjorn, and Achlys & Eos
 | Macho Brace | Route 15
 | Dread Plate | Lost Hotel
 | TM Snarl | Lost Hotel, fight Carrie, Sid, and Zoya & Asa
 | Lucky Egg ∞ | Chansey (Thief)
-| Focus Sash | Given in Dendemille (you can get them daily, but only 1 is intended)
+| Focus Band | Given in Dendemille
 | TM Facade | Given in Dendemille
 | Grip Claw ∞ | Sneasel (Thief)
 | TM Frost Breath | Frost Cavern, fight Gabrielle
@@ -207,12 +209,14 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 | TM Calm Mind | From Olympia
 | TM Taunt | Given in Lysandre Labs
 | Black Glasses | Lysandre Labs
+| Choice Scarf | Lysandre Labs, fight Celosia and Bryony or wait for them to leave (this happens after either Xerosic or Lysandre 3, not sure at the moment)
 ### After Flare HQ
 | Item | Location |
 |-------------|-------------|
 | Normal Gem ∞ | Terminus Cave, fight Yanis
 | TM Brick Break | Terminus Cave, fight Justine or Orestes (both are otherwise optional, despite what the docs say)
 | TM Shadow Ball | Terminus Cave, fight above plus Narek, Aaron, Dmitri, Andrea, Hailey, and Ricardo
+| Focus Sash x3 | Terminus Cave, fight above plus Fern & Lee
 | TM U-turn | Given in Couriway
 ### After Sycamore
 | Item | Location |
@@ -221,8 +225,10 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 | TM Rock Slide | Couriway
 | TM Sludge Bomb | Route 19, fight Ivy & Orrick and Shinobu
 | HM Waterfall | From Shauna after the bridge nightmare
-| Leftovers, Life Orb, Focus Sash, Assault Vest, Choice Band, Choice Specs, Choice Scarf ∞ | Snowbelle mart
 | TM Bulk Up | Given in Snowbelle
+| Choice Band | Route 21, fight Louis (after you have fought Mireille and Elina & Sean)
+| Choice Specs | Route 21, fight Trisha (after you have fought Mireille, Elina & Sean, and Evan)
+| TM Solar Beam | Route 21, fight Trisha (after you have fought Mireille, Elina & Sean, and Evan)
 | TM Energy Ball | Route 20, fight Desdemona
 | Pixie Plate | Pokemon Village
 ## After Wulfric
@@ -231,7 +237,6 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 | TM Ice Beam | From Wulfric
 | TM Stone Edge | Frost Cavern (Waterfall)
 | TM Psychic | Pokemon Village (Waterfall)
-| TM Solar Beam | Route 21, fight Trisha
 | TM Earthquake | Route 22, fight Hilde and Adelbert
 | TM Psyshock | Victory Road
 | TM Dragon Claw | Victory Road
@@ -242,4 +247,4 @@ This is a guide for the items in [Ancestral X](https://drive.google.com/drive/fo
 * Items are (generally) listed at the first obtainable point. Due to reasons such as delaying encounters, you may not be able to get them at that point.
 * HMs are indicated when backtracking is required. If you already have the relevant HM when you reach the location, it's not listed.
 * You can begin to farm money when you reach Santalune (from the cafe). Most people will give themselves infinite money here; technically, you do not have true infinite money until you reach the Berry Fields, due to the ability to grow berries, compost them into mulch, and sell the mulch.
-* *Pickup items are only obtainable if you have caught a pokemon with Pickup and chosen not to evolve it. The only pokemon with Pickup are Meowth, Teddiursa, Phanpy, Zigzagoon, and Lillipup. Available items scale with level, so this guide marks them when they become available within the level cap.
+* *Pickup items are only obtainable if you have caught a pokemon with Pickup and chosen not to evolve it. The only pokemon with Pickup are Teddiursa, Phanpy, Zigzagoon, and Lillipup. Available items scale with level, so this guide marks them when they become available within the level cap.
