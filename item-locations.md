@@ -62,6 +62,7 @@ This guide is currently up-to-date for release 2.0.1.
 | TM Hone Claws | Route 5, fight Florin
 | TM Thief | Gift in Camphrier-- *all previous stealable items obtainable now*
 | Sitrus Berry x990 | Berry Fields
+| Miracle Seed | Berry Fields
 ### After Route 6
 | Item | Location |
 |-------------|-------------|
