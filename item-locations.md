@@ -47,6 +47,7 @@ This guide is currently up-to-date for release 2.0.1.
 ### After Sycamore
 | Item | Location |
 |-------------|-------------|
+| Megite X | From Sycamore |
 | TM False Swipe | Given at Sycamore's lab
 | Eviolite | Lumiose Stone Emporium
 | Sticky Barb, Light Clay, Shell Bell ∞ | Lumiose Stone Emporium
@@ -140,8 +141,10 @@ This guide is currently up-to-date for release 2.0.1.
 | Item | Location |
 |-------------|-------------|
 | TM Power-Up Punch | From Korrina
+| Megite X ∞, Megite Y ∞ | Available in marts
 | PP Max ∞ | Pickup*
 | TM Low Sweep | Given in Tower of Mastery
+| Mega Ring | From Korrina after the Successor fight
 | HM Surf | From rival after Tower of Mastery
 | Charti Berry | Given in a house west of Cyllage (Surf)
 | Deep Sea Tooth ∞ | Carvanha (Thief)
