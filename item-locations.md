@@ -94,6 +94,7 @@ This guide is currently up-to-date for release 2.0.1.
 | Hard Stone, Soft Sand, Heart Scale ∞ | Rock Smash in Ambrette (after encounter)
 | Scope Lens ∞ | Horsea (Thief) (after Ambrette encounter)
 | Rocky Helmet | Given in Route 9 gate
+| Fire Stone | Route 9
 | Spell Tag ∞ | Yamask (Thief)
 | Moon Stone ∞ | Lunatone (Thief)
 | Sun Stone ∞ | Solrock (Thief)
