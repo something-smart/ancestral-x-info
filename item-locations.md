@@ -44,11 +44,11 @@ This guide is currently up-to-date for release 2.0.1.
 | Bright Powder ∞ | Cleffa (Covet/Magician)
 | TM Flame Charge | From Dexio and Sina
 | TMs Light Screen, Reflect, Aurora Beam, Struggle Bug, Bulldoze | Lumiose south mart
+| TM False Swipe | Given at Sycamore's lab
 ### After Sycamore
 | Item | Location |
 |-------------|-------------|
 | Megite X | From Sycamore |
-| TM False Swipe | Given at Sycamore's lab
 | Eviolite | Lumiose Stone Emporium
 | Sticky Barb, Light Clay, Shell Bell ∞ | Lumiose Stone Emporium
 | Mystic Water, Charcoal, Icy Rock, Smooth Rock ∞ | Lumiose Herboriste
