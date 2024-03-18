@@ -206,6 +206,7 @@ This guide is currently up-to-date for release 2.1.0.
 | TM Air Slash | Lost Hotel, fight Carrie, Sid, and Zoya & Asa
 | Lucky Egg ∞ | Chansey (Thief)
 | TM Solar Beam | Route 15
+| Dubious Disc ∞ | Porygon2 (Thief)
 | TM Facade | Given in Dendemille
 | Grip Claw ∞ | Sneasel (Thief)
 | TM Frost Breath | Frost Cavern, fight Gabrielle
