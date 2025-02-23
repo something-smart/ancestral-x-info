@@ -1,6 +1,6 @@
 This is a guide for the items in [Ancestral X](https://drive.google.com/drive/folders/1DxgI06n36emQzeh4X23ReQt8CwtnWQG0), a romhack by Axyn. While this guide does cover the whole game, it's always possible that I missed something, especially as things change with new updates. If you'd like to contribute to it, join the [Ancestral X Discord](https://discord.com/invite/rRh4cTbEaz) and ask for Something_Smart.
 
-This guide is currently up-to-date for release 2.1.0.
+This guide is currently up-to-date for release 2.3.
 
 ## Violatory (before Viola)
 | Item | Location |
@@ -75,6 +75,7 @@ This guide is currently up-to-date for release 2.1.0.
 | Shiny Stone | Route 6 East, fight Jerome and Jacob (far right)
 | TM Venoshock | Route 6 East, fight Jerome, Mari, and Takemi (slope to the left near the bottom)
 | Leftovers | Held by the Snorlax
+| All incenses | Daycare
 | Black Sludge ∞ | Grimer (Thief)
 | Lagging Tail ∞ | Lickitung (Thief)
 | Miracle Seed ∞ | Pumpkaboo (Thief)
@@ -117,11 +118,11 @@ This guide is currently up-to-date for release 2.1.0.
 | Item | Location |
 |-------------|-------------|
 | TM Rock Slide | From Grant
+| Ability Capsule ∞ | Available in marts
 | TM Thunder Wave | Route 10 (Strength)
 | TM Calm Mind | Connecting Cave (Strength)
 | TM Payback | Gift in Geosenge Pokemon Center
 | Black Belt ∞ | Sawk, Throh (Thief)
-| Ability Capsule x3 | Route 11
 | TM Rock Polish | Route 11
 | TM Giga Drain | From Tierno in Reflection Cave
 | Metal Coat ∞ | Magnemite, Nosepass, Metang, Bronzor (Thief)
@@ -172,7 +173,6 @@ This guide is currently up-to-date for release 2.1.0.
 | Iron Ball ∞ | Klinklang (Thief)
 | Zap Plate | Power Plant
 | Assault Vest | Power Plant
-| Ability Capsule x5 | Power Plant
 ### After Power Plant
 | Item | Location |
 |-------------|-------------|
@@ -197,7 +197,6 @@ This guide is currently up-to-date for release 2.1.0.
 |-------------|-------------|
 | TM Dazzling Gleam | From Valerie
 | Assault Vest ∞ | Pickup*
-| Ability Capsule x3 | Poke Ball Factory
 | Life Orb | Poke Ball Factory
 | Super Rod | Route 16
 | TM Dark Pulse | Route 16, fight Alice; OR one of Jet/Ollie plus Lee, Bjorn, and Achlys & Eos
@@ -210,7 +209,6 @@ This guide is currently up-to-date for release 2.1.0.
 | TM Facade | Given in Dendemille
 | Grip Claw ∞ | Sneasel (Thief)
 | TM Frost Breath | Frost Cavern, fight Gabrielle
-| Ability Capsule x5 | Route 17
 | TMs Sucker Punch, Flamethrower, Zen Headbutt, Substitute | Given in Anistar (32, 35, 77, 90)
 | TMs Ice Beam, Psychic, Shadow Ball, Energy Ball, Flash Cannon | Anistar mart
 ## After Olympia
@@ -230,7 +228,6 @@ This guide is currently up-to-date for release 2.1.0.
 | Item | Location |
 |-------------|-------------|
 | TM Scald | Given in Couriway
-| Ability Capsule x3 | Route 19
 | TM Sludge Bomb | Route 19, fight Ivy & Orrick and Shinobu
 | HM Waterfall | From Shauna after the bridge nightmare
 | TMs Hyper Beam, Thunder, Earthquake, Fire Blast, Focus Blast, Giga Impact, Stone Edge | Snowbelle mart
@@ -241,7 +238,6 @@ This guide is currently up-to-date for release 2.1.0.
 | Item | Location |
 |-------------|-------------|
 | TM Blizzard | From Wulfric
-| Ability Capsule x5 | Victory Road
 
 ### Notes:
 * ∞ means the item is infinitely obtainable. If no number is listed, you can only get 1.
