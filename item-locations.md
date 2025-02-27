@@ -157,7 +157,7 @@ This guide is currently up-to-date for release 2.3.
 | TM X-Scissor | Azure Bay, fight Isla and Ewan
 | Big Root | Lileep (Thief)
 | TMs Steel Wing, Mud Bomb, Seed Bomb | Coumarine mart
-| Basically every berry | Coumarine
+| Basically every berry | Coumarine (By dock & in one of the houses)
 | Silk Scarf | Given in Coumarine
 | Good Rod | Given in Coumarine
 | TMs Smart Strike, Acrobatics, Shadow Claw, Trick Room | Given in Coumarine (54, 62, 65, 92)
